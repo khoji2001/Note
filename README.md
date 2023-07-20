@@ -4,3 +4,6 @@ install homebrew in mac:
 '''
 brew install git
 
+  ```bash
+   export PATH="$PATH:$HOME/.composer/vendor/bin"
+   ```
