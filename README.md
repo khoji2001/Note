@@ -11,3 +11,6 @@ brew install git
    ```bash
    composer global require laravel/installer
    ```
+   ```bash
+   laravel new your-project-name
+   ```
