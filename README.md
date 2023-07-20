@@ -1,9 +1,9 @@
-install homebrew in mac:
-'''
+  ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-'''
+   ```
+  ```bash
 brew install git
-
+ ```
   ```bash
    export PATH="$PATH:$HOME/.composer/vendor/bin"
    ```
